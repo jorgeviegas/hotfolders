@@ -22,12 +22,12 @@
     <!--<extension name='permissionswebservices' />-->
     <!--<extension name='smarteditaddon' />-->
     <!--<extension name='cmssmartedit' />-->
-    <extension name='cmsbackoffice' />
-    <extension name='cmsmulticountrycockpit' />
-    <extension name='multicountrysampledataaddon' />
-    <extension name='previewpersonalizationweb' />
-    <extension name='textfieldconfiguratortemplateaddon' />
-    <extension name='textfieldconfiguratortemplateatddtests' />
+    <!--<extension name='cmsbackoffice' />-->
+    <!--<extension name='cmsmulticountrycockpit' />-->
+    <!--<extension name='multicountrysampledataaddon' />-->
+    <!--<extension name='previewpersonalizationweb' />-->
+    <!--<extension name='textfieldconfiguratortemplateaddon' />-->
+    <!--<extension name='textfieldconfiguratortemplateatddtests' />-->
     <extension name='grabincore' />
     <extension name='grabininitialdata' />
   </extensions>
