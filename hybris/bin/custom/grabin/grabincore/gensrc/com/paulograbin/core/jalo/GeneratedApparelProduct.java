@@ -1,27 +1,16 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at Mar 5, 2018 6:48:44 PM                      ---
+ * --- Generated at Mar 6, 2018 11:24:19 AM                     ---
  * ----------------------------------------------------------------
- *  
- * [y] hybris Platform
- *  
- * Copyright (c) 2000-2016 SAP SE
- * All rights reserved.
- *  
- * This software is the confidential and proprietary information of SAP
- * Hybris ("Confidential Information"). You shall not disclose such
- * Confidential Information and shall use it only in accordance with the
- * terms of the license agreement you entered into with SAP Hybris.
- *  
  */
 package com.paulograbin.core.jalo;
 
+import com.paulograbin.core.constants.GrabinCoreConstants;
 import de.hybris.platform.jalo.Item.AttributeMode;
 import de.hybris.platform.jalo.SessionContext;
 import de.hybris.platform.jalo.enumeration.EnumerationValue;
 import de.hybris.platform.jalo.product.Product;
-import com.paulograbin.core.constants.GrabinCoreConstants;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
