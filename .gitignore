@@ -27,3 +27,5 @@ installer/*
 README
 hybris/temp/*
 
+hybris/log/*
+idea-module-files/
