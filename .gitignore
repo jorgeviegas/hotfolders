@@ -21,6 +21,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+**/jalo/*.java
+
+**/gensrc/**
+gensrc
 hybris/bin/ext*
 hybris/bin/platform/*
 
@@ -31,3 +35,21 @@ hybris/temp/*
 
 hybris/log/*
 idea-module-files/
+
+
+
+
+*.class
+bin/custom/**/build.xml
+Generated*.java
+platformhome.properties
+*testclasses.xml
+extensioninfo.xsd
+*hmc.jar
+hmc.xsd
+items.xsd
+beans.xsd
+ruleset.xml
+*.log
+base.properties
+**/classes

@@ -1,22 +1,16 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at Mar 5, 2018 6:48:44 PM                      ---
+ * --- Generated at Mar 6, 2018 11:24:19 AM                     ---
  * ----------------------------------------------------------------
- *  
- * [y] hybris Platform
- *  
- * Copyright (c) 2000-2016 SAP SE
- * All rights reserved.
- *  
- * This software is the confidential and proprietary information of SAP
- * Hybris ("Confidential Information"). You shall not disclose such
- * Confidential Information and shall use it only in accordance with the
- * terms of the license agreement you entered into with SAP Hybris.
- *  
  */
 package com.paulograbin.core.jalo;
 
+import com.paulograbin.core.constants.GrabinCoreConstants;
+import com.paulograbin.core.jalo.ApparelProduct;
+import com.paulograbin.core.jalo.ApparelSizeVariantProduct;
+import com.paulograbin.core.jalo.ApparelStyleVariantProduct;
+import com.paulograbin.core.jalo.ElectronicsColorVariantProduct;
 import de.hybris.platform.jalo.Item;
 import de.hybris.platform.jalo.Item.AttributeMode;
 import de.hybris.platform.jalo.JaloBusinessException;
@@ -25,11 +19,6 @@ import de.hybris.platform.jalo.SessionContext;
 import de.hybris.platform.jalo.extension.Extension;
 import de.hybris.platform.jalo.type.ComposedType;
 import de.hybris.platform.jalo.type.JaloGenericCreationException;
-import com.paulograbin.core.constants.GrabinCoreConstants;
-import com.paulograbin.core.jalo.ApparelProduct;
-import com.paulograbin.core.jalo.ApparelSizeVariantProduct;
-import com.paulograbin.core.jalo.ApparelStyleVariantProduct;
-import com.paulograbin.core.jalo.ElectronicsColorVariantProduct;
 import java.util.HashMap;
 import java.util.Map;
 
