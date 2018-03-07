@@ -3,9 +3,11 @@
     <extensions>
         <path dir='${HYBRIS_BIN_DIR}' autoload='false'/>
         <extension name='grabincore'/>
-        <extension name='grabininitialdata'/>
+        <!--<extension name='grabininitialdata'/>-->
+        <!--<extension name='grabincockpits'/>-->
+        <!--<extension name='grabinbackoffice'/>-->
         <!--<extension name='grabinstorefront'/>-->
-        <extension name='grabinbackoffice'/>
+        <!--<extension name='commerceservicesbackoffice'/>-->
 
         <!--<extension name='mcc'/>-->
         <!--<extension name='adaptivesearchsolr'/>-->
